@@ -91,6 +91,6 @@ public class TestSub {
 		System.out.println("second write file time: " + wTime);
 		System.out.println("write resultMap to resultMapPath time: " + writeRMT);
 		System.out.println("run time: " + runTime);
-		
+		System.out.println("finish! ");
 	}
 }
